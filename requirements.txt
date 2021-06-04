@@ -1,8 +1,13 @@
 astroid==2.5.2
 colorama==0.4.4
+greenlet==1.1.0
 isort==5.8.0
 lazy-object-proxy==1.6.0
 mccabe==0.6.1
+mysql==0.0.3
+mysqlclient==2.0.3
 pylint==2.7.4
+PyMySQL==1.0.2
+SQLAlchemy==1.4.17
 toml==0.10.2
 wrapt==1.12.1
